@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TomTheAnimator
-- 👀 I’m interested in C#
+-Hi, I’m @TomTheAnimator
+-I’m interested in C#
 -I’m currently learning C#, html, css...
 -How to reach me (Nowhere yet)
 - 
